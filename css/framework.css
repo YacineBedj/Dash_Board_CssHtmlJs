@@ -1,0 +1,15 @@
+/* start global rools */
+*{
+    box-sizing: border-box;
+}
+*:focus{
+    outline: none;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+/* start global rools */
